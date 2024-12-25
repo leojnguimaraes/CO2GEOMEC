@@ -1,4 +1,4 @@
-# CO2GEOMEC
+# CO2GEOMEC - _Instruções Iniciais_
 
 ## Links do projeto
 
