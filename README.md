@@ -2,7 +2,7 @@
 
 ## Links do projeto
 
-- Google Spaces do Projeto: https://mail.google.com/mail/u/0/#chat/space/AAAADaHwLT0
+- (Google Spaces do Projeto)[https://mail.google.com/mail/u/0/#chat/space/AAAADaHwLT0]
 - Armazenamento do Projeto (OneDrive):   
 - Lista de emails dos participantes do projeto: 
 
