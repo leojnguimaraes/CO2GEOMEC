@@ -8,13 +8,13 @@
 
 ## Instruções para uso do OneDrive e ClickUp
 
-- Todos os arquivos a serem compartilhados devem ser colocados no OneDrive do projeto.
+- Todos os arquivos a serem compartilhados devem ser colocados no _OneDrive_ do projeto.
 - Criem uma pasta com seus nomes e sintam-se livres para organizar o conteúdo da forma que lhes pareça mais conveniente.
 - Tentem não anexar arquivos diretamente nas tarefas do _ClickUp_, ao invés disso forneçam o link para o _OneDrive_ do projeto. 
 
 ## Próximos eventos/tarefas
 
-- Apresentação online (será gravada):
+- _*Apresentação online*_ (será gravada):
 CO2GEOMEC: Revisão de Geomecânica do CCS
 Sexta-feira, 3 de janeiro de 2025 · 2:00 até 3:00pm
 Link da videochamada: https://meet.google.com/fzb-gchy-zmo
