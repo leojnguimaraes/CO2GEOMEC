@@ -18,7 +18,7 @@
 CO2GEOMEC: Revisão de Geomecânica do CCS  
 Sexta-feira, **_3 de janeiro de 2025 · 2:00 até 3:00pm_**  
 Link da videochamada: https://meet.google.com/fzb-gchy-zmo  
-- **_Tarefa_**: (_Ler Texto do Projeto_)[]
+- **_Tarefa_**: [_Ler Texto do Projeto_]()
 - **_Reunião online_**:  
 CO2GEOMEC - Rever Texto do Projeto e Dúvidas  
 Segunda-feira, **_13 de janeiro de 2025 · 2:00 até 4:00pm_**  
