@@ -3,8 +3,8 @@
 ## Links do projeto
 
 - Google Spaces do Projeto: grupo CO2GEOMEC no seu [_Gmail_](https://mail.google.com)
-- [Armazenamento do Projeto no _OneDrive_](https://onedrive.live.com/?id=eb17abf61a628b65%210%5EL0xpdmVGb2xkZXJzL0NPMkdFT01FQw&cid=EB17ABF61A628B65)   
-- [Projeto no Software de Gestão _ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
+- Armazenamento do Projeto no [_OneDrive_](https://onedrive.live.com/?id=eb17abf61a628b65%210%5EL0xpdmVGb2xkZXJzL0NPMkdFT01FQw&cid=EB17ABF61A628B65)   
+- Projeto no Software de Gestão [_ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
 
 ## Instruções para uso do OneDrive e ClickUp
 
