@@ -16,12 +16,12 @@
 
 - **_Apresentação online_** (será gravada):
 CO2GEOMEC: Revisão de Geomecânica do CCS  
-Sexta-feira, 3 de janeiro de 2025 · 2:00 até 3:00pm  
+Sexta-feira, **_3 de janeiro de 2025 · 2:00 até 3:00pm_**  
 Link da videochamada: https://meet.google.com/fzb-gchy-zmo  
 - **_Tarefa_**:
 - **_Reunião online_**:
 CO2GEOMEC - Rever Texto do Projeto e Dúvidas  
-Segunda-feira, 13 de janeiro de 2025 · 2:00 até 4:00pm  
+Segunda-feira, **_13 de janeiro de 2025 · 2:00 até 4:00pm_**  
 Link da videochamada: https://meet.google.com/zge-krre-avs  
 - **_Kick Off Meeting_** (KOM) presencial com RSB, no Litpeg:  16/01 à tarde
 
