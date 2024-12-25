@@ -14,7 +14,7 @@
 
 ## Próximos eventos/tarefas
 
-- _*Apresentação online*_ (será gravada):
+- *_Apresentação online_* (será gravada):
 CO2GEOMEC: Revisão de Geomecânica do CCS
 Sexta-feira, 3 de janeiro de 2025 · 2:00 até 3:00pm
 Link da videochamada: https://meet.google.com/fzb-gchy-zmo
