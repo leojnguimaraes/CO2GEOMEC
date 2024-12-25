@@ -14,17 +14,17 @@
 
 ## Próximos eventos/tarefas
 
-- *_Apresentação online_* (será gravada):
-CO2GEOMEC: Revisão de Geomecânica do CCS
-Sexta-feira, 3 de janeiro de 2025 · 2:00 até 3:00pm
-Link da videochamada: https://meet.google.com/fzb-gchy-zmo
--Tarefa:
--Reunião online:
-CO2GEOMEC - Rever Texto do Projeto e Dúvidas
-Segunda-feira, 13 de janeiro de 2025 · 2:00 até 4:00pm
-Link da videochamada: https://meet.google.com/zge-krre-avs
--Kick Off Meeting (KOM) presencial com RSB, no Litpeg:  16/01 à tarde
+- **_Apresentação online_** (será gravada):
+CO2GEOMEC: Revisão de Geomecânica do CCS  
+Sexta-feira, 3 de janeiro de 2025 · 2:00 até 3:00pm  
+Link da videochamada: https://meet.google.com/fzb-gchy-zmo  
+-**_Tarefa_**:
+-**_Reunião online_**:
+CO2GEOMEC - Rever Texto do Projeto e Dúvidas  
+Segunda-feira, 13 de janeiro de 2025 · 2:00 até 4:00pm  
+Link da videochamada: https://meet.google.com/zge-krre-avs  
+-**_Kick Off Meeting_** (KOM) presencial com RSB, no Litpeg:  16/01 à tarde
 
 ## Timeline dos eventos passados
 
-- Assinatura do projeto:  16 de janeiro de 2025
+- **_Assinatura do projeto_**:  16 de janeiro de 2025
