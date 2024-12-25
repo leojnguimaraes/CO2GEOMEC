@@ -6,10 +6,10 @@
 - Armazenamento do Projeto no [_OneDrive_](https://onedrive.live.com/?id=eb17abf61a628b65%210%5EL0xpdmVGb2xkZXJzL0NPMkdFT01FQw&cid=EB17ABF61A628B65)   
 - Projeto no Software de Gestão [_ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
 
-## Instruções para uso do OneDrive e ClickUp
+## Instruções para uso do _OneDrive_ e _ClickUp_
 
 - Todos os arquivos a serem compartilhados devem ser colocados no _OneDrive_ do projeto.
-- Criem uma pasta com seus nomes e sintam-se livres para organizar o conteúdo da forma que lhes pareça mais conveniente.
+- No _OneDrive_, criem uma pasta com seus nomes e sintam-se livres para organizar o conteúdo da forma que lhes pareça mais conveniente.
 - Tentem não anexar arquivos diretamente nas tarefas do _ClickUp_, ao invés disso forneçam o link para o _OneDrive_ do projeto. 
 
 ## Próximos eventos/tarefas
