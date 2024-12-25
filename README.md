@@ -4,9 +4,9 @@
 
 - [Google Spaces do Projeto](https://mail.google.com/mail/u/0/#chat/space/AAAADaHwLT0)
 - [Armazenamento do Projeto (OneDrive)]()   
-- [Software de Gestão do Projeto (ClickUp)](): 
+- [Software de Gestão do Projeto (ClickUp)]()
 
-## Instruções
+## Instruções para uso do OneDrive e ClickUp
 
 - Todos os arquivos a serem compartilhados devem ser colocados no OneDrive do projeto.
 - Criem uma pasta com seus nomes e sintam-se livres para organizar o conteúdo da forma que lhes pareça mais conveniente.
