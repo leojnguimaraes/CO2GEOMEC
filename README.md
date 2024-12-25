@@ -3,8 +3,8 @@
 ## Links do projeto
 
 - [Google Spaces do Projeto](https://mail.google.com/mail/u/0/#chat/space/AAAADaHwLT0)
-- Armazenamento do Projeto (OneDrive):   
-- Lista de emails dos participantes do projeto: 
+- [Armazenamento do Projeto (OneDrive)]()   
+- [Software de Gestão do Projeto (ClickUp)](): 
 
 ## Instruções
 
