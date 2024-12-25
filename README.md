@@ -10,7 +10,7 @@
 
 - Todos os arquivos a serem compartilhados devem ser colocados no OneDrive do projeto.
 - Criem uma pasta com seus nomes e sintam-se livres para organizar o conteúdo da forma que lhes pareça mais conveniente.
-- Tentem não anexar arquivos diretamente nas tarefas do ClickUp, ao invés disso forneçam o link para o OneDrive do projeto. 
+- Tentem não anexar arquivos diretamente nas tarefas do _ClickUp_, ao invés disso forneçam o link para o _OneDrive_ do projeto. 
 
 ## Próximos eventos/tarefas
 
