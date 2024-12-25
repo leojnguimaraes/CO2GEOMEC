@@ -3,14 +3,14 @@
 ## Links do projeto
 
 - Google Spaces (chat) do Projeto: grupo **CO2GEOMEC** no seu [_Gmail_](https://mail.google.com)
-- Armazenamento (1T) do Projeto no [_OneDrive_](https://onedrive.live.com/?id=eb17abf61a628b65%210%5EL0xpdmVGb2xkZXJzL0NPMkdFT01FQw&cid=EB17ABF61A628B65)   
+- Armazenamento do Projeto no [_GoogleDrive_](https://drive.google.com/drive/folders/1bnAS0k8Qox168uWEIDjhjRAzXIOS6wKC?usp=sharing)   
 - Projeto no Software de Gestão [_ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
 
-## Instruções para uso do _OneDrive_ e _ClickUp_
+## Instruções para uso do _GoogleDrive_ e _ClickUp_
 
-- Todos os arquivos a serem compartilhados devem ser colocados no _OneDrive_ do projeto.
-- No _OneDrive_, criem uma pasta com seus nomes e sintam-se livres para organizar o conteúdo da forma que lhes pareça mais conveniente.
-- Tentem não anexar arquivos diretamente nas tarefas do _ClickUp_, ao invés disso forneçam o link para o _OneDrive_ do projeto. 
+- Todos os arquivos a serem compartilhados devem ser colocados no _GoogleDrive_ do projeto.
+- No _GoogleDrive_, criem uma pasta com seus nomes e sintam-se livres para organizar o conteúdo da forma que lhes pareça mais conveniente.
+- Tentem não anexar arquivos diretamente nas tarefas do _ClickUp_, ao invés disso forneçam o link para o _GoogleDrive_ do projeto. 
 
 ## Próximos eventos/tarefas
 
