@@ -3,8 +3,8 @@
 ## Links do projeto
 
 - Google Spaces (chat) do Projeto: grupo **CO2GEOMEC** no seu [_Gmail_](https://mail.google.com)
-- Armazenamento do Projeto no [_Google Drive_](https://drive.google.com/drive/folders/1bnAS0k8Qox168uWEIDjhjRAzXIOS6wKC?usp=sharing)   
-- Atividades do Projeto no workspace (espaço de trabalho) "**UFPE**" do [_ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
+- Armazenamento do Projeto: [_Google Drive_](https://drive.google.com/drive/folders/1bnAS0k8Qox168uWEIDjhjRAzXIOS6wKC?usp=sharing)   
+- Atividades do Projeto: workspace (espaço de trabalho) "**UFPE**" no [_ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
 
 ## Instruções para uso do _Google Drive_ e _ClickUp_
 
