@@ -5,6 +5,7 @@
 - Google Spaces (chat) do Projeto: grupo **CO2GEOMEC** no seu [_Gmail_](https://mail.google.com)
 - Armazenamento do Projeto: [_Google Drive_](https://drive.google.com/drive/folders/1bnAS0k8Qox168uWEIDjhjRAzXIOS6wKC?usp=sharing)   
 - Atividades do Projeto: workspace (espaço de trabalho) "**UFPE**" no [_ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
+- Timeline do projeto: [_Gantt Project Planner_](https://1drv.ms/x/s!AmWLYhr2qxfrrCn0LjTe1OK6QcWw?e=pqGGu7)
 
 ## Instruções para uso do _Google Drive_ e _ClickUp_
 
