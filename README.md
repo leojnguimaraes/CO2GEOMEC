@@ -4,14 +4,14 @@
 
 - Google Spaces (chat) do Projeto: grupo **CO2GEOMEC** no seu [_Gmail_](https://mail.google.com)
 - Armazenamento do Projeto no [_Google Drive_](https://drive.google.com/drive/folders/1bnAS0k8Qox168uWEIDjhjRAzXIOS6wKC?usp=sharing)   
-- Atividades do Projeto no workspace (espaço de trabalho) **UFPE** do [_ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
+- Atividades do Projeto no workspace (espaço de trabalho) "**UFPE**" do [_ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
 
 ## Instruções para uso do _Google Drive_ e _ClickUp_
 
 - Todos os arquivos a serem compartilhados devem ser colocados no _Google Drive_ do projeto.
 - No _Google Drive_, criem uma pasta com seus nomes e sintam-se livres para organizar o conteúdo da forma que lhes pareça mais conveniente.
 - Tentem não anexar arquivos diretamente nas tarefas do _ClickUp_, ao invés disso forneçam o link para o _Google Drive_ do projeto.
-- No _ClickUp_, o que for feito no workspace (espaço de trabalho) **UFPE** será visto por toda equipe.
+- No _ClickUp_, o que for feito no workspace (espaço de trabalho) "**UFPE**" será visto por toda equipe.
 
 ## Próximos eventos/tarefas
 
