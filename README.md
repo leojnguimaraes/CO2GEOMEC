@@ -30,4 +30,6 @@ Link da videochamada: https://meet.google.com/zge-krre-avs
 
 ## Timeline dos eventos passados
 
-- **_Assinatura do projeto_**:  16 de janeiro de 2025
+- **_Assinatura do projeto_**:  16 de dezembro de 2024
+- **_Cadastro do projeto na ANP_**: 26 de dezembro de 2024
+
