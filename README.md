@@ -15,8 +15,7 @@
 - Tentem não anexar arquivos diretamente nas tarefas do _ClickUp_, ao invés disso forneçam o link para o _Google Drive_ do projeto.
 - No _ClickUp_, o que for feito no workspace (espaço de trabalho) "**UFPE**" será visto por toda equipe.
 
-## Próximos eventos/tarefas
-
+## Próximos eventos
 - **_Apresentação online_** (será gravada):  
 CO2GEOMEC: Revisão de Geomecânica do CCS  
 Sexta-feira, **_3 de janeiro de 2025 · 2:00 até 3:00pm_**  
