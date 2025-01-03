@@ -2,7 +2,7 @@
 
 ## Links do projeto
 
-- Google Spaces (chat) do Projeto: [_grupo **CO2GEOMEC**_]([https://mail.google.com](https://chat.google.com/room/AAAADaHwLT0?cls=7))
+- Google Spaces (chat) do Projeto: [_grupo **CO2GEOMEC**_](https://mail.google.com](https://chat.google.com/room/AAAADaHwLT0?cls=7))
 - Armazenamento do Projeto: [_Google Drive_](https://drive.google.com/drive/folders/1bnAS0k8Qox168uWEIDjhjRAzXIOS6wKC?usp=sharing)   
 - Atividades do Projeto: workspace (espaço de trabalho) "**UFPE**" no [_ClickUp_](https://app.clickup.com/9011820040/v/dc/8cjaxg8-631)
 - Descrição do Projeto: [_Texto PTR_A_](https://drive.google.com/file/d/1syqVNwVyqjv6zZviPp5RVXJs9Trtkdgu/view?usp=sharing)
