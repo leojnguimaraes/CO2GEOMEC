@@ -2,4 +2,4 @@
 
 ## Página descontinuada
 
-O acopanhamento está sendo feito via [_página do projeto no ClickUp_](https://doc.clickup.com/9011820040/d/h/8cjaxg8-631/c55e652e9090e34)
+O acopanhamento do projeto pode ser feito via sua [_página pública no ClickUp_](https://doc.clickup.com/9011820040/d/h/8cjaxg8-631/c55e652e9090e34)
